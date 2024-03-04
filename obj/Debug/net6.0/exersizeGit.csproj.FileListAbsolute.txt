@@ -1,0 +1,15 @@
+C:\Users\The user\Desktop\exersizeGit\bin\Debug\net6.0\exersizeGit.exe
+C:\Users\The user\Desktop\exersizeGit\bin\Debug\net6.0\exersizeGit.deps.json
+C:\Users\The user\Desktop\exersizeGit\bin\Debug\net6.0\exersizeGit.runtimeconfig.json
+C:\Users\The user\Desktop\exersizeGit\bin\Debug\net6.0\exersizeGit.dll
+C:\Users\The user\Desktop\exersizeGit\bin\Debug\net6.0\exersizeGit.pdb
+C:\Users\The user\Desktop\exersizeGit\obj\Debug\net6.0\exersizeGit.csproj.AssemblyReference.cache
+C:\Users\The user\Desktop\exersizeGit\obj\Debug\net6.0\exersizeGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The user\Desktop\exersizeGit\obj\Debug\net6.0\exersizeGit.AssemblyInfoInputs.cache
+C:\Users\The user\Desktop\exersizeGit\obj\Debug\net6.0\exersizeGit.AssemblyInfo.cs
+C:\Users\The user\Desktop\exersizeGit\obj\Debug\net6.0\exersizeGit.csproj.CoreCompileInputs.cache
+C:\Users\The user\Desktop\exersizeGit\obj\Debug\net6.0\exersizeGit.dll
+C:\Users\The user\Desktop\exersizeGit\obj\Debug\net6.0\refint\exersizeGit.dll
+C:\Users\The user\Desktop\exersizeGit\obj\Debug\net6.0\exersizeGit.pdb
+C:\Users\The user\Desktop\exersizeGit\obj\Debug\net6.0\exersizeGit.genruntimeconfig.cache
+C:\Users\The user\Desktop\exersizeGit\obj\Debug\net6.0\ref\exersizeGit.dll
